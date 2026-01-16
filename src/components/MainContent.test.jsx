@@ -22,3 +22,4 @@ describe('MainContent', () => {
     expect(screen.getByTestId('help-area')).toBeInTheDocument();
   });
 });
+
